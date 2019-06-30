@@ -1,0 +1,11 @@
+age=54
+age+=54
+print(age)
+whats_over_left=23/2
+print(2*age%whats_over_left)
+what=9.0
+print(9.0)
+age2=93
+amount_of_inceament=-9
+age2+=amount_of_inceament
+print(age2)
