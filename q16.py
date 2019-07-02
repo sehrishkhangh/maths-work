@@ -1,0 +1,8 @@
+print("============================DISTANCE FORMULA===============================")
+print('\n')
+x1=int(input('x1 value from data= '))
+x2=int(input('x2 value from data= '))
+y1=int(input('y1 value from data= '))
+y2=int(input('y2 value from data= '))
+distanc=(x2-x1,y2-y1)
+print('Distance= ', distanc)
