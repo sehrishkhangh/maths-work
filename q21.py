@@ -1,0 +1,12 @@
+print('============================ TIME CONVERTOR =========================')
+print('\n')
+time=int(input('The time you want to convert in sec! '))
+time_day=int(time/86400)
+time_hour=int(time/3600)
+time_minute=int(time/60)
+print('Your time in days= ',int(time_day))
+print('Your time in hour= ',int(time_hour))
+print('Your time in minute= ',int(time_minute))
+print('\n')
+print('================================   THE END   ==========================')
+
